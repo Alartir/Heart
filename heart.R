@@ -1,4 +1,4 @@
-setwd("~/Estudio R")
+setwd("~/Portafolio R/Heart")
 
 df <- read.csv('heart.csv')
 
